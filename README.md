@@ -289,6 +289,30 @@ An empty `items` array returns `400 Bad Request`.
 
 ---
 
+## Screenshots
+
+**Home page**
+
+<img width="1915" height="966" alt="Screenshot 2026-11-09 172345" src="https://github.com/user-attachments/assets/955938a5-7615-4959-a8d5-db4e58345f16" />
+
+**Order-pizza**
+
+<img width="1917" height="965" alt="Screenshot 2026-11-09 172511" src="https://github.com/user-attachments/assets/830c1cd9-1c6b-4c04-9604-2ad88f162a22" />
+
+**Personalize your pizza**
+
+<img width="1915" height="965" alt="Screenshot 2026-11-09 172430" src="https://github.com/user-attachments/assets/b3635ad3-0f08-4560-b799-d43c3e13a5ab" />
+
+**My-orders**
+
+<img width="1917" height="962" alt="Screenshot 2026-11-09 172452" src="https://github.com/user-attachments/assets/cbca31f8-f986-44a7-bc8f-9ca7330da429" />
+
+**Cart**
+
+<img width="1917" height="965" alt="Screenshot 2026-11-09 172511" src="https://github.com/user-attachments/assets/9265a0f7-7eef-45b5-86fb-4e42da746531" />
+
+---
+
 ## Future Improvements
 
 - User registration and login with JWT, and per-user carts and order history
